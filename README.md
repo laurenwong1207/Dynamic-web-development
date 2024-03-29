@@ -1,7 +1,7 @@
 # Week 1
 
 ## Introduction
-The assignment entails creating a webpage showcasing an image gallery that displays a diverse array of wood textures. For designers, architects, and artists, seeing the textures and colors of various woods can inspire new ideas and projects. The textures are usually displayed as individual swatches.
+The assignment entails creating a webpage showcasing an image gallery that displays a diverse array of wood textures. Seeing the textures and colors of various woods can inspire new ideas and projects. The textures are usually displayed as individual swatches.
 They are small, typically square or rectangular, blocks that display a specific color or material sample. Swatches can also display material samples or texture patterns, helping users visualize how different materials or textures will look in their designs.
 
 ## Ideation
